@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rayane-09-38@live.fr
+	name = zsh
